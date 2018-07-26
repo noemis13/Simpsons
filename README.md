@@ -1,0 +1,2 @@
+# Simpsons
+Neste trabalho a ideia é reconhecer características dos cincos personagens da família Simpsons: Bart, Homer, Lisa, Meggie e Merge, utilizando um programa na Linguagem Matlab, três tipos de classificadores, e dois métodos de fusão de classificadores. Para o rechecimento de características existem duas bases de dados, uma de treinanmento, contendo todas as imagens dos persnagens para serem treinadas e extraídas as características, e outra de validação, para extrair características e determinar se o treminamento está correto.
